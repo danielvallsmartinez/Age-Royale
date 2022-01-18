@@ -4,7 +4,7 @@ Age Royale is a project we did in group which is based on the famous mobile game
 This project, though, is a computer oriented online game which follows the Model View Controller architecture and implements the connection client-server through sockets.
 Users' data and games' statics are stored in a MySQL database.
 
-Language used: Java
+Language used: Java, sql
 
 ![image](https://user-images.githubusercontent.com/59182620/149989192-311b3fac-5bf9-46a2-8144-5b738937a63c.png)
 ![image](https://user-images.githubusercontent.com/59182620/149989210-d93657f6-859f-40eb-8348-57e4d3476ea7.png)
