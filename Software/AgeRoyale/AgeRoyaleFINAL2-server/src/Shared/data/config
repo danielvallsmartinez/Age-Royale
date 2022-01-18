@@ -1,0 +1,11 @@
+{
+  "connectionPort": "3306",
+  "ip": "localhost",
+  "dataBase_Name": "AgeRoyale",
+  "access_User": "AgeRoyale10",
+  "password": "AgeRoyale10",
+  "communicationPort": "3457",
+  "url": "jdbc:mysql://localhost:3306/AgeRoyale?verifyServerCertificate=false&useSSL=true"
+}
+
+
